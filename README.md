@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bassir789
 - 👀 I’m interested in coding and developing
 - 🌱 I’m currently learning computer science course
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on coding and designing
 - 📫 How to reach me abdulbassirmohammed@gmail.com
 
 <!---
